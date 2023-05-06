@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SobreMim",
+            "request": "launch",
+            "mainClass": "SobreMim",
+            "projectName": "sistema-smart-tv_576e7192"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -23,7 +30,6 @@
                 "1.77"
             ]
         },
-
         {
             "type": "java",
             "name": "Usuario",
