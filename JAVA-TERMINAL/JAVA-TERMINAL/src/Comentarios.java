@@ -4,7 +4,7 @@ public class Comentarios {
 
         /*Olá
          * Eu sou um comentário
-         * que posso ser mais detalhado
+         * que posso ser mais detalhado\\\
          * quando necessário.
          */
 
