@@ -9,7 +9,8 @@ public class TiposVariaveis {
         // int cep = 21070333;
         // long cpf = 98765432109L; // O L serve para a linguagem entender o tipo como long
         // float pi = 3.14F; // O F serve para a linguagem entender o tipo como float
-        // double salarioMinimo = 2500.33;
+        // double salarioMinimo = 2500.33; 
+
 
     }
 }
