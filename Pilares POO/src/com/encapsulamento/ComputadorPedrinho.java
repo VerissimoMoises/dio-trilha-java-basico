@@ -5,5 +5,15 @@ public class ComputadorPedrinho {
 
         msn.enviarMensagem();
         msn.receberMensagem();
+
+        FacebookMessenger fcb = new FacebookMessenger();
+
+        fcb.enviarMensagem();
+        fcb.receberMensagem();
+
+        Telegran tlg = new Telegran();
+
+        tlg.enviarMensagem();
+        tlg.receberMensagem();
     }
 }
