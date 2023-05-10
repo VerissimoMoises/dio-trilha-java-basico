@@ -1,3 +1,4 @@
+package com.aula1;
 public class Carro extends Veiculo {
 
     public void ligar() {

@@ -1,3 +1,4 @@
+package com.aula1;
 public class Moto extends Veiculo {
 
     @Override

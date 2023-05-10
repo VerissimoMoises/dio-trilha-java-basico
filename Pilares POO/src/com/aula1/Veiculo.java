@@ -1,3 +1,4 @@
+package com.aula1;
 public abstract class Veiculo {
     private String chassi;
 
